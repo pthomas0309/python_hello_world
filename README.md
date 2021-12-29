@@ -6,35 +6,31 @@ Hello World project created as an introduction to the Python programming languag
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-1. Check your local machine for a version of Python, in your terminal run the command: python --version. If this returns an error try to run: python3 --version.
+1. Check your local machine for a version of Python, in your terminal run the command: 
+```
+python --version
+```
+ If this returns an error try to run:
+ ```
+ python3 --version.
+```
 
 2. If neither of those commands returns with a Python version number, download Python using the link under the Prerequisites section.
 
 3. Download the ZIP file from Github or clone the repository to your local machine.
 
-4. Run the .py file using the terminal with the command: python hello_world.py or python3 --version
+4. Run the .py file using the terminal with the command:
+```
+ python hello_world.py
+``` 
+or if your machine has an earlier version of Python installed as well as Python 3+ run: 
+```
+python3 --version
+```
 
 ### Prerequisites
 
 Python ([download for most current version](https://www.python.org/downloads/))
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 
